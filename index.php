@@ -1,4 +1,10 @@
 <?php
+/**
+ * file: index.php
+ * 
+ * description: This file is only used to display example usage of the library.
+ */
+
 include_once "inc/Praxis/PasswordGenerator.php";
 
 $pwgen = new Praxis\Helpers\SimplePasswordGenerator();
